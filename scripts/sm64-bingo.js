@@ -38,7 +38,7 @@ bingoList[7] = [
   { name: "Factory Glide 2 & Juliet 1 orbs", types: [] },
   { name: "Plant all seeds in Zephyr", types: [] },
   { name: "All orbs in Zephyr", types: [] },
-  { name: "Actiavte all '2' powerups", types: [] },
+  { name: "Activate all '2' powerups", types: [] },
   { name: "Puzzle & Juliet 2 orbs", types: [] }
 ];
 bingoList[8] = [
