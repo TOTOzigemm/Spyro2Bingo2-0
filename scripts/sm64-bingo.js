@@ -9,7 +9,7 @@ bingoList[1] = [
 bingoList[2] = [
   { name: "Outdoor Lamps & Robot Scarecrows orbs", types: [] },
   { name: "All orbs in Glimmer", types: [] },
-  { name: "Activate all odd numbered powerups", types: [] }
+  { name: "Activate all powerups in Colossus, Cloud Temples & Metropolis", types: [] }
 ];
 bingoList[3] = [
   { name: "Seahorses & Hula girls orbs", types: [] },
@@ -18,7 +18,7 @@ bingoList[3] = [
 ];
 bingoList[4] = [
   { name: "Canyon & Ocean speedway orbs", types: [] },
-  { name: "Beat 3 speedways", types: [] },
+  { name: "All gems in 3 speedways", types: [] },
   { name: "Enter 2 different portals from OoB", types: [] }
 ];
 bingoList[5] = [
@@ -125,7 +125,7 @@ bingoList[20] = [
 ];
 // 
 bingoList[21] = [
-  { name: "All chocolate orbs", types: [] },
+  { name: "All end of level orbs", types: [] },
   { name: "13 Summer Forest orbs", types: [] },
   { name: "11 Autumn Plains orbs", types: [] },
   { name: "8 Winter Tundra orbs", types: [] },
